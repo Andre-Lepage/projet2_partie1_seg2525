@@ -2,7 +2,7 @@
   "name": "virtual-odyssey",
   "version": "0.1.0",
   "homepage": "https://Andre-Lepage.github.io/projet2_partie1_seg2525",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
