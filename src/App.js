@@ -1,5 +1,5 @@
 
-import { HashRouter as Router, Route, Routes} from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Home from './Home';
 import Categories from './Categories'
 import Results from './Results';
@@ -12,13 +12,13 @@ function App() {
 
   return (
 
-    <Router basename="/">
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route exact path='/' component={Home} />
-        <Route path='/Categories' component={Categories} />
-        <Route path='/ReviewPage' component={ReviewPage} />
-        <Route path='/Results/:category' component={Results} />
-        <Route path='/Join' component={Join} />
+        <Route path='/' element={<Home/>} />
+        <Route path='/Categories' element={<Categories/>} />
+        <Route path='/ReviewPage' element={<ReviewPage/>} />
+        <Route path='/Results/:category' element={<Results/>} />
+        <Route path='/Join' element={<Join/>} />
       </Routes>
     </Router>
     
