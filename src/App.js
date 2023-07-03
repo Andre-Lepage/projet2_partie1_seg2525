@@ -1,5 +1,5 @@
 
-import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import { HashRouter as Router, Route, Routes} from 'react-router-dom';
 import Home from './Home';
 import Categories from './Categories'
 import Results from './Results';
@@ -12,7 +12,7 @@ function App() {
 
   return (
 
-    <Router basename="/projet2_partie1_seg2525">
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/Categories' element={<Categories/>} />
