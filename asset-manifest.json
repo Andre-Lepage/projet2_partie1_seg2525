@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projet2_partie1_seg2525/static/css/main.d1eebaf0.css",
-    "main.js": "/projet2_partie1_seg2525/static/js/main.4ef6f0a9.js",
+    "main.js": "/projet2_partie1_seg2525/static/js/main.62808e9b.js",
     "static/js/787.9250dfeb.chunk.js": "/projet2_partie1_seg2525/static/js/787.9250dfeb.chunk.js",
     "static/media/stardew-valley.jpg": "/projet2_partie1_seg2525/static/media/stardew-valley.4faee42f0322a2071bd6.jpg",
     "static/media/pokemon-game.jpg": "/projet2_partie1_seg2525/static/media/pokemon-game.894a4bb6108d34a3dea8.jpg",
@@ -15,11 +15,11 @@
     "static/media/counter-strike.jpg": "/projet2_partie1_seg2525/static/media/counter-strike.ab480ae3121506d0ec2b.jpg",
     "index.html": "/projet2_partie1_seg2525/index.html",
     "main.d1eebaf0.css.map": "/projet2_partie1_seg2525/static/css/main.d1eebaf0.css.map",
-    "main.4ef6f0a9.js.map": "/projet2_partie1_seg2525/static/js/main.4ef6f0a9.js.map",
+    "main.62808e9b.js.map": "/projet2_partie1_seg2525/static/js/main.62808e9b.js.map",
     "787.9250dfeb.chunk.js.map": "/projet2_partie1_seg2525/static/js/787.9250dfeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1eebaf0.css",
-    "static/js/main.4ef6f0a9.js"
+    "static/js/main.62808e9b.js"
   ]
 }
