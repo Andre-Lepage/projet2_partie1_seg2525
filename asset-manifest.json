@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projet2_partie1_seg2525/static/css/main.d1eebaf0.css",
+    "main.js": "/projet2_partie1_seg2525/static/js/main.7c615e90.js",
+    "static/js/787.9250dfeb.chunk.js": "/projet2_partie1_seg2525/static/js/787.9250dfeb.chunk.js",
+    "static/media/stardew-valley.jpg": "/projet2_partie1_seg2525/static/media/stardew-valley.4faee42f0322a2071bd6.jpg",
+    "static/media/pokemon-game.jpg": "/projet2_partie1_seg2525/static/media/pokemon-game.894a4bb6108d34a3dea8.jpg",
+    "static/media/star-background.jpg": "/projet2_partie1_seg2525/static/media/star-background.2393c82121863e14bfcc.jpg",
+    "static/media/cod-mobile.jpg": "/projet2_partie1_seg2525/static/media/cod-mobile.1bcfdfd45ce80d0ccc64.jpg",
+    "static/media/logo-color.png": "/projet2_partie1_seg2525/static/media/logo-color.e2f328b0b249b55b7200.png",
+    "static/media/donkey-kong.jpg": "/projet2_partie1_seg2525/static/media/donkey-kong.12e5a80848615b05a213.jpg",
+    "static/media/lol.jpg": "/projet2_partie1_seg2525/static/media/lol.3d2c62a82f119bc7510a.jpg",
+    "static/media/overwatch.jpg": "/projet2_partie1_seg2525/static/media/overwatch.08c18a99ae19e8673e3e.jpg",
+    "static/media/spider-man.jpg": "/projet2_partie1_seg2525/static/media/spider-man.778eec72b2c1164861ce.jpg",
+    "static/media/counter-strike.jpg": "/projet2_partie1_seg2525/static/media/counter-strike.ab480ae3121506d0ec2b.jpg",
+    "index.html": "/projet2_partie1_seg2525/index.html",
+    "main.d1eebaf0.css.map": "/projet2_partie1_seg2525/static/css/main.d1eebaf0.css.map",
+    "main.7c615e90.js.map": "/projet2_partie1_seg2525/static/js/main.7c615e90.js.map",
+    "787.9250dfeb.chunk.js.map": "/projet2_partie1_seg2525/static/js/787.9250dfeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1eebaf0.css",
+    "static/js/main.7c615e90.js"
+  ]
+}
