@@ -12,13 +12,13 @@ function App() {
 
   return (
 
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/">
       <Routes>
-        <Route path='/' element={<Home/>} />
-        <Route path='/Categories' element={<Categories/>} />
-        <Route path='/ReviewPage' element={<ReviewPage/>} />
-        <Route path='/Results/:category' element={<Results/>} />
-        <Route path='/Join' element={<Join/>} />
+        <Route exact path='/' component={Home} />
+        <Route path='/Categories' component={Categories} />
+        <Route path='/ReviewPage' component={ReviewPage} />
+        <Route path='/Results/:category' component={Results} />
+        <Route path='/Join' component={Join} />
       </Routes>
     </Router>
     
